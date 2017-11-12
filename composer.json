@@ -1,0 +1,13 @@
+{
+  "name": "labboy0276/bootstrap",
+  "description": "Bootstrap 3.3.7",
+  "type": "drupal-library",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/labboy0276/bootstrap",
+  "authors": [
+      {
+          "name": "John Ouellet",
+          "email": "labboy0276@yahoo.com"
+      }
+  ]
+}
